@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>John Doe - Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My Portfolio</h1>
+  <p>Hello! I'm John Doe, a passionate software developer. Below are some of my recent projects:</p>
+  
+  <h2>Projects</h2>
+  <ul>
+    <li><a href="https://github.com/johnDoe/project1">Project 1</a></li>
+    <li><a href="https://github.com/johnDoe/project2">Project 2</a></li>
+  </ul>
+  
+  <h2>Contact</h2>
+  <p>You can reach me at <a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
+</body>
+</html>
